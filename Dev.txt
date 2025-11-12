@@ -1,0 +1,5 @@
+Hi this is my text file for DEV
+
+Dapat lahat ng brnches maging sync lahat.
+
+So from here dapat pare pareho silang my Dev.txt GO!
